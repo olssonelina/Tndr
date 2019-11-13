@@ -1,0 +1,24 @@
+{
+    "people": [
+        {
+            "name": "Christer Olsson",
+            "competence": "Architecht & Engineer",
+            "description": "yää",
+            "image-src": "people/christer.jpg"
+        },
+        {
+            "name": "Fatima Rubin",
+            "competence": "AI developer",
+            "description": "wow",
+            "image-src": "people/fatima.jpg"
+        },
+        {
+            "name": "Lingon Smith",
+            "competence": "Business developer",
+            "description": "oui",
+            "image-src": "people/lingon.jpg"
+        }
+
+    ]
+
+}
